@@ -1,0 +1,3 @@
+school = "Emobilis"
+print(school)
+
