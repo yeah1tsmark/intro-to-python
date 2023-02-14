@@ -1,0 +1,5 @@
+range of numbers from 1 to 100
+if divisible by 3 and 5 print -->"FizzBuzz"
+if divisible by 3 only print -->"fizz"
+if divisible by 5 only print -->"buzz"
+else print"n"
