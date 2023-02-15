@@ -4,7 +4,7 @@ for i in range(1, 101):
     if i % 3 == 0 and i % 5 == 0:
         print("FizzBuzz")
     # check if number is divisible by 3
-    elif i % 3 == 0:git
+    elif i % 3 == 0:
         print("Fizz")
     # check if number is divisible by 5
     elif i % 5 == 0:
